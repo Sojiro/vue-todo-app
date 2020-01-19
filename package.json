@@ -1,0 +1,27 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Vue.js Todo app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sojiro/vue-todo-app.git"
+  },
+  "keywords": [
+    "Vue.js",
+    "todo",
+    "app"
+  ],
+  "author": "Sojiro De Tenken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sojiro/vue-todo-app/issues"
+  },
+  "homepage": "https://github.com/Sojiro/vue-todo-app#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
